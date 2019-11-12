@@ -1,4 +1,8 @@
 npm install -g homebridge-httpdoor
+npm install -g homebridge-hs100
+npm install -g homebridge-http-securitysystem
+npm install -g homebridge-platform-wemo
+
 rm -rf ~/.homebridge/persist
 rm -rf ~/.homebridge/accessories/cachedAccessories
 
